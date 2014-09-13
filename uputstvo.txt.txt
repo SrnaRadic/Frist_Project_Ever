@@ -1,0 +1,5 @@
+Websajt je prezentacija skole engleskog jezika.
+Sajt obuhvata informacije o raspolozivim kursevima i generalno o radu skole.
+
+Rad je testiran u browseru Google Chrome (Version 33.0.1750.154 m)
+
